@@ -1,6 +1,6 @@
  <div align="center">
 
-  # 大厂牛马的副业顾问.skill
+  # 副业.skill
 
   </div>
   <div align="center">
